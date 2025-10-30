@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import '../../controllers/navigation/navigation_controller.dart';
-import '../CompletedTask/completed_task.dart';
+import '../CompletedTask/completed_task_page.dart';
 import '../Navbar/custom_bott_navbar.dart';
 import '../Notification/notification_page.dart';
 import 'Home/home.dart';
